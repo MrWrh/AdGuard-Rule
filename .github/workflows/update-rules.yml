@@ -28,7 +28,7 @@ jobs:
           python-version: '3.x'
       - uses: actions/setup-node@v4
         with:
-          #node-version: '14'
+          #node-version: '20'
           check-latest: true
 
       # Install hostlist-compiler
