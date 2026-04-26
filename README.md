@@ -1,5 +1,5 @@
 <div align="center">
-<h1>AdGuard Rule</h1>
+<h1>来自 AdGuard Rule</h1>
   <p>
     一个简易的Java程序，用于合并与更新 AdGuard 过滤规则
 </p>
@@ -18,35 +18,4 @@
 | `mylist.txt` | 自用补充规则，人工更新                                       | [✈️点此查看](https://raw.githubusercontent.com/hululu1068/AdGuard-Rule/main/rule/mylist.txt) | [🚀点此查看(延迟)](https://cdn.jsdelivr.net/gh/hululu1068/AdGuard-Rule@main/rule/mylist.txt) |
 
 <br/>
-<h2 id="c">🛠️ 配置</h2>
 
-#### 示例配置
-
-```yaml
-application:
-  rule:       
-    #远程规则订阅，仅支持http、https
-    remote:
-      - 'https://example.com/list.txt'
-    #本地规则，请将文件移动到项目路径rule目录中
-    local: 
-      - 'mylist.txt'
-  output:
-    path: rule   #规则文件输出路径，相对路径默认从 项目目录开始
-    files:
-      all.txt:    #输出文件名
-        - DOMAIN  #域名规则，仅完整域名
-        - REGEX   #正则规则，包含正则的域名规则，AdGH支持
-        - MODIFY  #修饰规则，添加了一些修饰符号的规则，AdG支持
-        - HOSTS   #Hosts规则
-```
-
-#### 使用 Github Action
-
-- fork本项目
-- 参照示例配置，修改配置文件: `src/main/resources/application.yml`，注意本地规则文件应放入项目根目录 `rule` 文件夹
-- 编辑 `.github/workflows/auto-update.yml` 文件，将 `Commit Changes` 区块下邮箱与用户名修改为自己的（Github邮箱与用户名）
-- 提交所有修改并等待 `Github Action` 执行，执行完成后相应规则生成在配置中指定的目录下
-- 👉 特别感谢@fordes123
-
-<br/>
