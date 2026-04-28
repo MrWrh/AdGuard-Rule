@@ -1,4 +1,4 @@
-# Update time: 2026-04-28 11:56:45
+# Update time: 2026-04-28 22:35:26
 # Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重
 
 ###################################   合并/去重自以下规则   ####################################
@@ -3333,6 +3333,7 @@
 127.0.0.1 cardmethod.com
 127.0.0.1 hueads.com
 127.0.0.1 cmp.dmgmediaprivacy.co.uk
+127.0.0.1 moonwager.com
 127.0.0.1 adside.com
 127.0.0.1 analytics.mobile.yandex.net
 127.0.0.1 ademails.com
