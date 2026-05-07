@@ -1,4 +1,4 @@
-# Update time: 2026-05-07 11:53:43
+# Update time: 2026-05-07 22:39:40
 # Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重
 
 ###################################   合并/去重自以下规则   ####################################
@@ -166,6 +166,7 @@
 127.0.0.1 go2affise.com
 127.0.0.1 t.notif-colissimo-laposte.info
 127.0.0.1 programattik.com
+127.0.0.1 bugpuk.ru
 127.0.0.1 freshrelevance.com
 127.0.0.1 prebid.org
 127.0.0.1 ads.toplayaffiliates.com
