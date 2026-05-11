@@ -1,4 +1,4 @@
-# Update time: 2026-05-10 21:47:01
+# Update time: 2026-05-11 12:14:18
 # Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重
 
 ###################################   合并/去重自以下规则   ####################################
@@ -1331,6 +1331,7 @@
 127.0.0.1 clickngo.top
 127.0.0.1 clickadddilla.com
 127.0.0.1 harrenmedia.com
+127.0.0.1 trkm.mg.thegoodybag.co.uk
 127.0.0.1 wlmarketing.com
 127.0.0.1 apture.com
 127.0.0.1 aswpapius.com
