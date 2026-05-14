@@ -1,4 +1,4 @@
-# Update time: 2026-05-14 12:05:13
+# Update time: 2026-05-14 22:32:55
 # Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重
 
 ###################################   合并/去重自以下规则   ####################################
@@ -3409,6 +3409,7 @@
 127.0.0.1 smart-data-systems.com
 127.0.0.1 wizaly.com
 127.0.0.1 clk1005.com
+127.0.0.1 spoonballoon.com
 127.0.0.1 trk.techtarget.com
 127.0.0.1 ads.recoletos.es
 127.0.0.1 thewavebeats.com
