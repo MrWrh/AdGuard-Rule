@@ -1,4 +1,4 @@
-# Update time: 2026-05-14 22:32:55
+# Update time: 2026-05-15 12:10:32
 # Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重
 
 ###################################   合并/去重自以下规则   ####################################
@@ -99,6 +99,8 @@
 ||banner.*.tccapis.com^
 ||cdn-adn-*.rayjump.com^
 ||adcs-*.myappsget.com^
+||okok37@dtacnetwork.co.th
+||ad*.nownews.com^
 ||zcchyr*.xyz^
 ||js.*2023*.live^
 ||zaqlovh*.xyz^
@@ -125,45 +127,38 @@
 ||zbc6hy*.live^
 @@||cdn-msp*.18comic*.*^
 ||tw-726620180914.*.run.app^
-||sax*.sina.
-||adi*.cnool.net^
+||bdcpro*.techweb.com.cn^
+||dm*.yxlady.com^
 ||same*.stockstar.com^
 ||res*.pinpai8.cn^
-||d*.ruiwen.com^
+||impservice*.youdao.com^
+||impservice*.yodao.com^
+||dn*.ixinwei.com^
+||a*.chajiaotong.com^
+||bdlm*.hc360.com^
+||ya*.dwstatic.com^
 ||ad*.on.cc^
 ||js*.abolezi.com^
 ||sam*.baby-kingdom.com^
 ||zbb.bbb.*.pics^
 ||qpb*.sohu.com^
-||static*.365inews.com^
 ||ysdm*.ys137.com.cn^
-||okok37@dtacnetwork.co.th
-||ad*.nownews.com^
-||bc.geocities.
-||collector-*.luigisbox.com^
-||log-*.previewnetworks.com^
-||mcdp-*.outbrain.com^
-||tracker.twenga.
-||bdcpro*.techweb.com.cn^
+||sax*.sina.
 ||67.21.92.*.gif
 ||uc*.atobo.com^
-||impservice*.youdao.com^
+||d*.ruiwen.com^
 ||fanpingbi*.gaokao.com^
-||dn*.ixinwei.com^
-||a*.chajiaotong.com^
-||bdlm*.hc360.com^
 ||ac*.786ip.com^
-||ya*.dwstatic.com^
 ||d*.xinshipu.com^
 ||fpb*.51edu.com^
 ||ja*.gamersky.com^
+||static*.365inews.com^
 ||107.167.22.*.gif
-||dm*.yxlady.com^
 ||38.33.15.*.gif
 ||zhizhizhizhi.oss-*.aliyuncs.com^
+||adi*.cnool.net^
 ||tupian888.*.bcebos.com^
 ||gcw*.2liang.cn^
-||impservice*.yodao.com^
 ||ac*.faxingchina.com^
 ||fpb1.chinacar.
 ||ax.*.ifeng.com^
@@ -173,6 +168,11 @@
 ||vns86.oss-*.aliyuncs.com^
 ||asd8900.oss-*.aliyuncs.com^
 ||ky891.oss-*.aliyuncs.com^
+||bc.geocities.
+||collector-*.luigisbox.com^
+||log-*.previewnetworks.com^
+||mcdp-*.outbrain.com^
+||tracker.twenga.
 ||mon*-misc.fqnovel.com^
 ||ulog*.kwai-pro.com^
 ||logreport-global-dual.cool*cloud.com^
@@ -268,8 +268,6 @@ d4?appid*type*
 ||www.^
 lj_bookmarklet
 ||acookie.*.gif?
-||s*.skencituer.com^
-||hostingcloud.*.wasm^
 ||stw.extreme-down.
 ||matt.mercadolibre.
 ||tccd.douglas.
@@ -300,20 +298,21 @@ lj_bookmarklet
 ||aviasales.*-analytics.
 %2Fevent.gif%3F
 ||df.infra.shopee.
+||s*.skencituer.com^
+||hostingcloud.*.wasm^
 ||increase*-rev.static-cloudflare.workers.dev^
 ||increase*rev.static-cloudflare.workers.dev^
 ||increase-rev*.static-cloudflare.workers.dev^
-||158.247.208.
-||inc*-rev.static-cloudflare.workers.dev^
 ||23.109.82.
 ||get-me-wow.
+||158.247.208.
+||inc*-rev.static-cloudflare.workers.dev^
+||util-*.simply-hentai.com^
 ||142.91.159.
 ||cas.*.criteo.com^
 ||allsportsflix.
 |167.206.10.148^
 ||23.109.87.
-||widgets.*.webengage.com^
-||chat*-ce.chatdealer.jp^
 ||reachableads-av.*.amazonaws.com^
 rgmechanicsgames.com*VPN.exe
 ||pijama.*.elasticbeanstalk.com^
@@ -326,7 +325,6 @@ rgmechanicsgames.com*VPN.exe
 ||rgfftupf.
 ||gamenguide.com*adbk
 ||counter*.stat.ovh^
-||util-*.simply-hentai.com^
 ||ads*.dfiles.ru^
 ||ads.livetv*.me^
 ||advert*.livesportmedia.eu^
@@ -334,6 +332,8 @@ rgmechanicsgames.com*VPN.exe
 ||prebid-*.rubiconproject.com^
 ||advertising.civitai.
 Banner468x60
+||widgets.*.webengage.com^
+||chat*-ce.chatdealer.jp^
 ||pixel*.production-public.tubi.io^
 ||tracking.cds.dmm.
 ||host*.nti.nl^

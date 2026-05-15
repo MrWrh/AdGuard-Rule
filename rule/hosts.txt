@@ -1,4 +1,4 @@
-# Update time: 2026-05-14 22:32:55
+# Update time: 2026-05-15 12:10:32
 # Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重
 
 ###################################   合并/去重自以下规则   ####################################
@@ -423,6 +423,7 @@
 127.0.0.1 bannerimage.com
 127.0.0.1 ads.tripod.lycos.nl
 127.0.0.1 fxstyle.net
+127.0.0.1 tracker.colatv88xb.cc
 127.0.0.1 adsrv.deviantart.com
 127.0.0.1 nedstatbasic.net
 127.0.0.1 ads.cbc.ca
