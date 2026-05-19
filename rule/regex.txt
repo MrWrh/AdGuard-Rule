@@ -1,4 +1,4 @@
-# Update time: 2026-05-18 23:51:46
+# Update time: 2026-05-19 12:18:43
 # Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重
 
 ###################################   合并/去重自以下规则   ####################################
@@ -99,8 +99,6 @@
 ||banner.*.tccapis.com^
 ||cdn-adn-*.rayjump.com^
 ||adcs-*.myappsget.com^
-||okok37@dtacnetwork.co.th
-||ad*.nownews.com^
 ||zcchyr*.xyz^
 ||js.*2023*.live^
 ||zaqlovh*.xyz^
@@ -126,42 +124,32 @@
 ||zahrvfbd*.xyz^
 ||zbc6hy*.live^
 @@||cdn-msp*.18comic*.*^
-||tw-726620180914.*.run.app^
-||bdcpro*.techweb.com.cn^
-||dm*.yxlady.com^
-||adi*.cnool.net^
-||same*.stockstar.com^
+||okok37@dtacnetwork.co.th
+||ad*.nownews.com^
+||67.21.92.*.gif
+||res*.pinpai8.cn^
 ||impservice*.youdao.com^
-||gcw*.2liang.cn^
 ||d*.ruiwen.com^
+||fanpingbi*.gaokao.com^
 ||dn*.ixinwei.com^
-||ac*.faxingchina.com^
-||fpb1.chinacar.
+||bdlm*.hc360.com^
 ||ac*.786ip.com^
-||ad*.on.cc^
 ||d*.xinshipu.com^
 ||fpb*.51edu.com^
-||sam*.baby-kingdom.com^
-||zbb.bbb.*.pics^
-||sax*.sina.
-||67.21.92.*.gif
-||uc*.atobo.com^
-||res*.pinpai8.cn^
-||fanpingbi*.gaokao.com^
-||a*.chajiaotong.com^
-||bdlm*.hc360.com^
-||ya*.dwstatic.com^
 ||ja*.gamersky.com^
 ||static*.365inews.com^
 ||ysdm*.ys137.com.cn^
 ||107.167.22.*.gif
+||dm*.yxlady.com^
 ||38.33.15.*.gif
 ||zhizhizhizhi.oss-*.aliyuncs.com^
+||adi*.cnool.net^
 ||tupian888.*.bcebos.com^
+||gcw*.2liang.cn^
 ||impservice*.yodao.com^
-||ax.*.ifeng.com^
+||ac*.faxingchina.com^
+||fpb1.chinacar.
 ||121.204.246.*.gif
-||js*.abolezi.com^
 ||107.167.16.*.gif
 ||qpb*.sohu.com^
 ||union*.365inews.com^
@@ -173,6 +161,18 @@
 ||log-*.previewnetworks.com^
 ||mcdp-*.outbrain.com^
 ||tracker.twenga.
+||tw-726620180914.*.run.app^
+||sax*.sina.
+||bdcpro*.techweb.com.cn^
+||same*.stockstar.com^
+||ya*.dwstatic.com^
+||uc*.atobo.com^
+||ad*.on.cc^
+||ax.*.ifeng.com^
+||js*.abolezi.com^
+||sam*.baby-kingdom.com^
+||zbb.bbb.*.pics^
+||a*.chajiaotong.com^
 ||mon*-misc.fqnovel.com^
 ||ulog*.kwai-pro.com^
 ||logreport-global-dual.cool*cloud.com^
@@ -267,9 +267,6 @@ d4?appid*type*
 ||www.usgforexstw.^
 ||www.^
 lj_bookmarklet
-||acookie.*.gif?
-||s*.skencituer.com^
-||hostingcloud.*.wasm^
 ||stw.extreme-down.
 ||matt.mercadolibre.
 ||tccd.douglas.
@@ -300,11 +297,15 @@ lj_bookmarklet
 ||aviasales.*-analytics.
 %2Fevent.gif%3F
 ||df.infra.shopee.
+||acookie.*.gif?
+||s*.skencituer.com^
+||hostingcloud.*.wasm^
 ||increase*-rev.static-cloudflare.workers.dev^
 ||increase*rev.static-cloudflare.workers.dev^
 ||increase-rev*.static-cloudflare.workers.dev^
 ||23.109.82.
 ||get-me-wow.
+||increv*.static-cloudflare.workers.dev^
 ||158.247.208.
 ||inc*-rev.static-cloudflare.workers.dev^
 ||util-*.simply-hentai.com^
@@ -360,6 +361,7 @@ notifications.google.com%2Fg%2Fimg%2F*.gif
 ||analytics-rollout-*.amazonaws.com^
 ||api-*.hismarttv.com^
 google-analytics.com%2Fcollect
+||eflbundles.*.com.tr^
 ||mssdk*.zijieapi.com^
 ||datacollect*.abtasty.com^
 ||log-v*-boot.capcutapi.com^
