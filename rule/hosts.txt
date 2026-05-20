@@ -1,4 +1,4 @@
-# Update time: 2026-05-20 12:19:22
+# Update time: 2026-05-20 23:50:00
 # Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重
 
 ###################################   合并/去重自以下规则   ####################################
@@ -168,6 +168,7 @@
 127.0.0.1 bugpuk.ru
 127.0.0.1 freshrelevance.com
 127.0.0.1 prebid.org
+127.0.0.1 ads.toplayaffiliates.com
 127.0.0.1 unwieldyimpulse.com
 127.0.0.1 affiliatefuture.com
 127.0.0.1 bizible.com
@@ -2069,6 +2070,7 @@
 127.0.0.1 praddpro.de
 127.0.0.1 crystalboulevard.com
 127.0.0.1 distilltable.com
+127.0.0.1 cedato.com
 127.0.0.1 mcs-va.tiktokv.com
 127.0.0.1 rtbpop.com
 127.0.0.1 tracking.orixa-media.com
