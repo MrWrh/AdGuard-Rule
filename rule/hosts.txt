@@ -1,4 +1,4 @@
-# Update time: 2026-05-28 12:21:01
+# Update time: 2026-05-29 00:19:35
 # Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重
 
 ###################################   合并/去重自以下规则   ####################################
@@ -564,6 +564,7 @@
 127.0.0.1 affiliate.treated.com
 127.0.0.1 casinorewards.com
 127.0.0.1 witch-counter.de
+127.0.0.1 webiqonline.com
 127.0.0.1 eulerian.net
 127.0.0.1 ads6.gamecity.net
 127.0.0.1 tag-demo.mention-me.com
@@ -1044,6 +1045,7 @@
 127.0.0.1 pub.chez.com
 127.0.0.1 typicalteeth.com
 127.0.0.1 ads.wiezoekje.nl
+127.0.0.1 adktrack.124.xyz
 127.0.0.1 adsflowprime.top
 127.0.0.1 optnx.com
 127.0.0.1 adeimptrck.com
