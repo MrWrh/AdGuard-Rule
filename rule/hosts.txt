@@ -1,4 +1,4 @@
-# Update time: 2026-06-04 12:55:37
+# Update time: 2026-06-04 23:35:23
 # Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重
 
 ###################################   合并/去重自以下规则   ####################################
@@ -505,6 +505,7 @@
 127.0.0.1 piquantpigs.com
 127.0.0.1 ad.wsod.com
 127.0.0.1 ads.o2.pl
+127.0.0.1 metrics-a.wbx2.com
 127.0.0.1 echoacloud.com
 127.0.0.1 lakesecure.com
 127.0.0.1 ads.kaktuz.net
@@ -1698,6 +1699,7 @@
 127.0.0.1 ad.tv2.no
 127.0.0.1 banner.northsky.com
 127.0.0.1 adcycle.com
+127.0.0.1 tsa.webex.com
 127.0.0.1 ads.fortunecity.com
 127.0.0.1 reconditerake.com
 127.0.0.1 aax-eu-dub.amazon.com
