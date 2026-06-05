@@ -1,4 +1,4 @@
-# Update time: 2026-06-05 12:39:47
+# Update time: 2026-06-05 23:23:18
 # Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重
 
 ###################################   合并/去重自以下规则   ####################################
@@ -231,7 +231,6 @@
 127.0.0.1 adsynergy.com
 127.0.0.1 beacons.gcp.gvt2.com
 127.0.0.1 lizardslaugh.com
-127.0.0.1 starkscale.com
 127.0.0.1 adtechus.com
 127.0.0.1 fireads.online
 127.0.0.1 actionsplash.com
@@ -526,7 +525,6 @@
 127.0.0.1 ads.mediasmart.es
 127.0.0.1 linkrain.com
 127.0.0.1 serv0.com
-127.0.0.1 re-direct.pl
 127.0.0.1 ads.fastcomgroup.it
 127.0.0.1 creatopy.net
 127.0.0.1 ticketaunt.com
@@ -834,6 +832,7 @@
 127.0.0.1 async.gsyndication.com
 127.0.0.1 protectsubrev.com
 127.0.0.1 banner.ambercoastcasino.com
+127.0.0.1 wirypaste.com
 127.0.0.1 trafficrouter.io
 127.0.0.1 ads.mvscoelho.com
 127.0.0.1 adlooxtracking.com
@@ -940,7 +939,6 @@
 127.0.0.1 media6degrees.com
 127.0.0.1 mixpanel.com
 127.0.0.1 page-checker.eu
-127.0.0.1 overkick.com
 127.0.0.1 voluumtrk2.com
 127.0.0.1 serendipityecho.com
 127.0.0.1 fc.webmasterpro.de
@@ -977,7 +975,6 @@
 127.0.0.1 districtm.ca
 127.0.0.1 admized.com
 127.0.0.1 adspirit.de
-127.0.0.1 topsite.lv
 127.0.0.1 ads.tiktok.com
 127.0.0.1 d2cmedia.ca
 127.0.0.1 sparkstudios.com
@@ -1137,7 +1134,6 @@
 127.0.0.1 google-analytics.com
 127.0.0.1 historytrade.com
 127.0.0.1 owneriq.net
-127.0.0.1 coldbalance.com
 127.0.0.1 truehits2.gits.net.th
 127.0.0.1 f7ds.liberation.fr
 127.0.0.1 siteimproveanalytics.io
