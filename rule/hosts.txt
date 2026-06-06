@@ -1,4 +1,4 @@
-# Update time: 2026-06-06 12:12:49
+# Update time: 2026-06-06 22:01:23
 # Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重
 
 ###################################   合并/去重自以下规则   ####################################
@@ -593,7 +593,6 @@
 127.0.0.1 flexbanner.com
 127.0.0.1 hollowafterthought.com
 127.0.0.1 infinite-ads.com
-127.0.0.1 etracker.com
 127.0.0.1 analytics.tiktok.com
 127.0.0.1 referrer.disqus.com
 127.0.0.1 adland.ru
@@ -1200,7 +1199,6 @@
 127.0.0.1 ads.pni.com
 127.0.0.1 adjuggler.com
 127.0.0.1 adcel.co
-127.0.0.1 etracker.de
 127.0.0.1 li.azstarnet.com
 127.0.0.1 yesadvertising.com
 127.0.0.1 ads.ferianc.com
@@ -2503,6 +2501,7 @@
 127.0.0.1 trkoptimizer.com
 127.0.0.1 mousestats.com
 127.0.0.1 tatsumi-sys.jp
+127.0.0.1 code.etracker.com
 127.0.0.1 sillyscrew.com
 127.0.0.1 wholepagecache.com
 127.0.0.1 mybuys.com
@@ -3110,6 +3109,7 @@
 127.0.0.1 livingsleet.com
 127.0.0.1 maximiser.net
 127.0.0.1 cosmosjackson.com
+127.0.0.1 static.etracker.com
 127.0.0.1 responsiveads.com
 127.0.0.1 clk1011.com
 127.0.0.1 admailtiser.com
