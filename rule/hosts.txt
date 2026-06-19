@@ -1,4 +1,4 @@
-# Update time: 2026-06-19 13:11:58
+# Update time: 2026-06-19 23:37:07
 # Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重
 
 ###################################   合并/去重自以下规则   ####################################
@@ -218,7 +218,6 @@
 127.0.0.1 media.net
 127.0.0.1 ad0.bigmir.net
 127.0.0.1 oascentral.fortunecity.com
-127.0.0.1 bannermanager.bnr.bg
 127.0.0.1 clevernt.com
 127.0.0.1 vervewireless.com
 127.0.0.1 fusionquest.com
@@ -530,7 +529,6 @@
 127.0.0.1 ticketaunt.com
 127.0.0.1 doublepimp.com
 127.0.0.1 pgl.example0101
-127.0.0.1 tracker.metricswave.com
 127.0.0.1 iadnet.com
 127.0.0.1 ad4mat.com
 127.0.0.1 adriver.ru
@@ -774,7 +772,6 @@
 127.0.0.1 mlsend.com
 127.0.0.1 max.i12.de
 127.0.0.1 pluckypocket.com
-127.0.0.1 zenkreka.com
 127.0.0.1 hsn.uqhv.net
 127.0.0.1 conversantmedia.com
 127.0.0.1 hotlog.ru
@@ -907,7 +904,6 @@
 127.0.0.1 mystat.pl
 127.0.0.1 mylead-tracking.tracknow.info
 127.0.0.1 nr-data.net
-127.0.0.1 remox.com
 127.0.0.1 adsrv.moebelmarkt.tv
 127.0.0.1 plausibleio.workers.dev
 127.0.0.1 ad.iinfo.cz
@@ -1337,6 +1333,7 @@
 127.0.0.1 addfreestats.com
 127.0.0.1 aerialapps.com
 127.0.0.1 lzjl.com
+127.0.0.1 adcenter.net
 127.0.0.1 smartlook.com
 127.0.0.1 screechingstove.com
 127.0.0.1 gothamads.com
@@ -1933,6 +1930,7 @@
 127.0.0.1 audit.webinform.hu
 127.0.0.1 hitcounters.miarroba.com
 127.0.0.1 madcpms.com
+127.0.0.1 clickyab.com
 127.0.0.1 yadro.ru
 127.0.0.1 bizographics.com
 127.0.0.1 adserver.pl
@@ -3477,6 +3475,7 @@
 127.0.0.1 servedbyadbutler.com
 127.0.0.1 stakingsmile.com
 127.0.0.1 tia.timeinc.net
+127.0.0.1 advertipros.com
 127.0.0.1 adserver.friendfinder.com
 127.0.0.1 nzaza.com
 127.0.0.1 cdn.freshmarketer.com
