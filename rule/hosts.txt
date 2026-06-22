@@ -1,4 +1,4 @@
-# Update time: 2026-06-22 13:20:15
+# Update time: 2026-06-23 01:09:20
 # Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重
 
 ###################################   合并/去重自以下规则   ####################################
@@ -985,6 +985,7 @@
 127.0.0.1 placed.com
 127.0.0.1 grapeshot.co.uk
 127.0.0.1 realclix.com
+127.0.0.1 correctedcode.com
 127.0.0.1 tracker.samplicio.us
 127.0.0.1 look.ichlnk.com
 127.0.0.1 ads.hollywood.com
@@ -1722,6 +1723,7 @@
 127.0.0.1 colorfulpet.com
 127.0.0.1 wickedreports.com
 127.0.0.1 zanox.com
+127.0.0.1 adme2.click
 127.0.0.1 adtrack.voicestar.com
 127.0.0.1 api.kameleoon.com
 127.0.0.1 bidclix.com
@@ -3479,6 +3481,7 @@
 127.0.0.1 adserver.friendfinder.com
 127.0.0.1 nzaza.com
 127.0.0.1 cdn.freshmarketer.com
+127.0.0.1 cdn.smalk.ai
 127.0.0.1 kindads.com
 127.0.0.1 virtualvincent.com
 127.0.0.1 axonix.com
