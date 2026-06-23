@@ -1,4 +1,4 @@
-# Update time: 2026-06-23 01:09:20
+# Update time: 2026-06-23 12:13:29
 # Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重
 
 ###################################   合并/去重自以下规则   ####################################
@@ -2872,6 +2872,7 @@
 127.0.0.1 hystericalcloth.com
 127.0.0.1 signalayer.com
 127.0.0.1 mtrcs.samba.tv
+127.0.0.1 itrackly.com
 127.0.0.1 call-ad-network-api.marchex.com
 127.0.0.1 shadowmade.com
 127.0.0.1 protectpool.com
