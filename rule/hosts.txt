@@ -1,4 +1,4 @@
-# Update time: 2026-06-27 12:09:44
+# Update time: 2026-06-27 22:00:06
 # Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重
 
 ###################################   合并/去重自以下规则   ####################################
@@ -1167,6 +1167,7 @@
 127.0.0.1 netmng.com
 127.0.0.1 calmcactus.com
 127.0.0.1 eadexchange.com
+127.0.0.1 tracking.cybertips.uk
 127.0.0.1 click.cision.com
 127.0.0.1 adverticum.com
 127.0.0.1 megacash.de
