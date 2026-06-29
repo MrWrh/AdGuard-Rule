@@ -1,4 +1,4 @@
-# Update time: 2026-06-28 22:06:36
+# Update time: 2026-06-29 12:51:25
 # Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重
 
 ###################################   合并/去重自以下规则   ####################################
@@ -255,6 +255,7 @@
 127.0.0.1 t.eloqua.com
 127.0.0.1 adnami.io
 127.0.0.1 stats.nextgen-email.com
+127.0.0.1 track.wewilltrcku.com
 127.0.0.1 hilariouszinc.com
 127.0.0.1 semasio.net
 127.0.0.1 takethatad.com
@@ -310,6 +311,7 @@
 127.0.0.1 ads.acrosspf.com
 127.0.0.1 hyperbanner.net
 127.0.0.1 matchcraft.com
+127.0.0.1 tracking.p-l-m.com
 127.0.0.1 adconion.com
 127.0.0.1 tapjoy.com
 127.0.0.1 freedomgrail.com
@@ -440,6 +442,7 @@
 127.0.0.1 ads.nzcity.co.nz
 127.0.0.1 adservrs.com
 127.0.0.1 savoryorange.com
+127.0.0.1 adtrk1.com
 127.0.0.1 aloofvest.com
 127.0.0.1 ad-server.gulasidorna.se
 127.0.0.1 hb.vntsm.com
@@ -839,6 +842,7 @@
 127.0.0.1 ads-twitter.com
 127.0.0.1 tr.api.fanbyte.com
 127.0.0.1 image4.pubmatic.com
+127.0.0.1 tracking.casheddy.com
 127.0.0.1 cloudguppy.com
 127.0.0.1 hf5rbejvpwds.com
 127.0.0.1 ads.lesbianpersonals.com
@@ -1093,6 +1097,7 @@
 127.0.0.1 zippingcare.com
 127.0.0.1 smilingcattle.com
 127.0.0.1 click.emails.tuclothing.sainsburys.co.uk
+127.0.0.1 advertracker.com
 127.0.0.1 cj.com
 127.0.0.1 voicefive.com
 127.0.0.1 disqusads.com
@@ -1274,6 +1279,7 @@
 127.0.0.1 360yield.com
 127.0.0.1 adminder.com
 127.0.0.1 bannerconnect.com
+127.0.0.1 tracker.optin-lead.com
 127.0.0.1 admanager.carsoup.com
 127.0.0.1 ringplant.com
 127.0.0.1 clicksinfo.thefork.co.uk
@@ -1477,6 +1483,7 @@
 127.0.0.1 ntvk1.ru
 127.0.0.1 t.en25.com
 127.0.0.1 curveshore.com
+127.0.0.1 go2cloud.org
 127.0.0.1 ads.boylesports.com
 127.0.0.1 valuead.com
 127.0.0.1 skimresources.com
@@ -1646,6 +1653,7 @@
 127.0.0.1 at-o.net
 127.0.0.1 ultraoranges.com
 127.0.0.1 clrstm.com
+127.0.0.1 tracking.adstrategysites.com
 127.0.0.1 mediabridge.cc
 127.0.0.1 ads.mediaodyssey.com
 127.0.0.1 emltrk.com
@@ -2355,6 +2363,7 @@
 127.0.0.1 adworldnetwork.com
 127.0.0.1 yab-adimages.s3.amazonaws.com
 127.0.0.1 ads.weather.ca
+127.0.0.1 adstrategy-elb.go2cloud.org
 127.0.0.1 adserver.sciflicks.com
 127.0.0.1 ads10.speedbit.com
 127.0.0.1 admob.com
