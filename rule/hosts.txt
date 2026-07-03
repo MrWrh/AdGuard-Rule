@@ -1,4 +1,4 @@
-# Update time: 2026-07-03 11:59:51
+# Update time: 2026-07-03 22:27:01
 # Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重
 
 ###################################   合并/去重自以下规则   ####################################
@@ -229,7 +229,6 @@
 127.0.0.1 adsynergy.com
 127.0.0.1 beacons.gcp.gvt2.com
 127.0.0.1 lizardslaugh.com
-127.0.0.1 starkscale.com
 127.0.0.1 adtechus.com
 127.0.0.1 fireads.online
 127.0.0.1 actionsplash.com
@@ -527,6 +526,7 @@
 127.0.0.1 ads.mediasmart.es
 127.0.0.1 linkrain.com
 127.0.0.1 serv0.com
+127.0.0.1 re-direct.pl
 127.0.0.1 ads.fastcomgroup.it
 127.0.0.1 creatopy.net
 127.0.0.1 ticketaunt.com
@@ -831,7 +831,6 @@
 127.0.0.1 async.gsyndication.com
 127.0.0.1 protectsubrev.com
 127.0.0.1 banner.ambercoastcasino.com
-127.0.0.1 wirypaste.com
 127.0.0.1 trafficrouter.io
 127.0.0.1 ads.mvscoelho.com
 127.0.0.1 adlooxtracking.com
@@ -906,7 +905,6 @@
 127.0.0.1 mystat.pl
 127.0.0.1 mylead-tracking.tracknow.info
 127.0.0.1 nr-data.net
-127.0.0.1 remox.com
 127.0.0.1 adsrv.moebelmarkt.tv
 127.0.0.1 plausibleio.workers.dev
 127.0.0.1 ad.iinfo.cz
@@ -939,7 +937,6 @@
 127.0.0.1 media6degrees.com
 127.0.0.1 mixpanel.com
 127.0.0.1 page-checker.eu
-127.0.0.1 overkick.com
 127.0.0.1 voluumtrk2.com
 127.0.0.1 serendipityecho.com
 127.0.0.1 fc.webmasterpro.de
@@ -983,6 +980,7 @@
 127.0.0.1 cjbmanagement.com
 127.0.0.1 fwcdn2.com
 127.0.0.1 adwhirl.com
+127.0.0.1 banners.babylon-x.com
 127.0.0.1 adtng.com
 127.0.0.1 placed.com
 127.0.0.1 grapeshot.co.uk
@@ -1136,7 +1134,6 @@
 127.0.0.1 google-analytics.com
 127.0.0.1 historytrade.com
 127.0.0.1 owneriq.net
-127.0.0.1 coldbalance.com
 127.0.0.1 truehits2.gits.net.th
 127.0.0.1 f7ds.liberation.fr
 127.0.0.1 siteimproveanalytics.io
@@ -1435,7 +1432,6 @@
 127.0.0.1 puffyloss.com
 127.0.0.1 thirdparty.bnc.lt
 127.0.0.1 alikeaddition.com
-127.0.0.1 prsitecheck.com
 127.0.0.1 crtv.mate1.com
 127.0.0.1 dist.belnk.com
 127.0.0.1 nativeroll.tv
@@ -1701,7 +1697,6 @@
 127.0.0.1 adcycle.com
 127.0.0.1 tsa.webex.com
 127.0.0.1 ads.fortunecity.com
-127.0.0.1 reconditerake.com
 127.0.0.1 aax-eu-dub.amazon.com
 127.0.0.1 actuallysheep.com
 127.0.0.1 laughcloth.com
@@ -2341,6 +2336,7 @@
 127.0.0.1 ads.cc
 127.0.0.1 adv.yo.cz
 127.0.0.1 advertwizard.com
+127.0.0.1 clustrmaps.com
 127.0.0.1 spacash.com
 127.0.0.1 ads.as4x.tmcs.net
 127.0.0.1 fireworks-advertising.com
