@@ -1,4 +1,4 @@
-# Update time: 2026-07-03 22:27:01
+# Update time: 2026-07-04 11:53:37
 # Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重
 
 ###################################   合并/去重自以下规则   ####################################
@@ -1185,6 +1185,7 @@
 127.0.0.1 bidtellect.com
 127.0.0.1 adoric-om.com
 127.0.0.1 adtrade.net
+127.0.0.1 analytics-fe.digital-cloud-prem.medallia.eu
 127.0.0.1 ads.apn.co.nz
 127.0.0.1 ad-delivery.net
 127.0.0.1 netshelter.net
