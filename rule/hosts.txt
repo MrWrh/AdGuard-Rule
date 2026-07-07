@@ -1,4 +1,4 @@
-# Update time: 2026-07-07 12:09:28
+# Update time: 2026-07-07 22:55:08
 # Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重
 
 ###################################   合并/去重自以下规则   ####################################
@@ -2436,6 +2436,7 @@
 127.0.0.1 instantmadness.com
 127.0.0.1 decknetwork.net
 127.0.0.1 linkswaper.com
+127.0.0.1 advertising.amazon.de
 127.0.0.1 contrack.link
 127.0.0.1 ranking-charts.de
 127.0.0.1 adnet.asahi.com
