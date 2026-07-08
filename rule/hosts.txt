@@ -1,4 +1,4 @@
-# Update time: 2026-07-08 11:34:05
+# Update time: 2026-07-08 22:33:13
 # Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重
 
 ###################################   合并/去重自以下规则   ####################################
@@ -1404,6 +1404,7 @@
 127.0.0.1 geo.digitalpoint.com
 127.0.0.1 onestat.com
 127.0.0.1 partnerlinks.io
+127.0.0.1 api-ext.bixbitemarketing.com
 127.0.0.1 iyfbodn.com
 127.0.0.1 link.email.davidlloydclubs.co.uk
 127.0.0.1 yoads.net
