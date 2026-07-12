@@ -1,4 +1,4 @@
-# Update time: 2026-07-11 21:44:15
+# Update time: 2026-07-12 11:41:29
 # Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重
 
 ###################################   合并/去重自以下规则   ####################################
@@ -858,6 +858,7 @@
 127.0.0.1 beacons.gvt2.com
 127.0.0.1 sitemeter.com
 127.0.0.1 lbn.ru
+127.0.0.1 researchlog.dbresearch.com
 127.0.0.1 ad2.netriota.hu
 127.0.0.1 affiliates.babylon.com
 127.0.0.1 click.justwatch.com
@@ -1052,6 +1053,7 @@
 127.0.0.1 adeimptrck.com
 127.0.0.1 boredcrown.com
 127.0.0.1 sicksmash.com
+127.0.0.1 trkweb.clinch.co
 127.0.0.1 lemnisk.co
 127.0.0.1 ads.gaming1.com
 127.0.0.1 clickhereforcellphones.com
@@ -1350,6 +1352,7 @@
 127.0.0.1 desertgates.com
 127.0.0.1 ads3-adnow.com
 127.0.0.1 rec5.visualwebsiteoptimizer.com
+127.0.0.1 capitalopera.com
 127.0.0.1 exelator.com
 127.0.0.1 ads.web.de
 127.0.0.1 jumptap.com
@@ -2390,6 +2393,7 @@
 127.0.0.1 k.iinfo.cz
 127.0.0.1 scratch2cash.com
 127.0.0.1 matomo.crossiety.app
+127.0.0.1 pi.pdfjs.express
 127.0.0.1 rtbflairads.com
 127.0.0.1 tm.br.de
 127.0.0.1 prchecker.info
@@ -3002,6 +3006,7 @@
 127.0.0.1 webads.co.nz
 127.0.0.1 ad.centrum.cz
 127.0.0.1 clientmetrics-pa.googleapis.com
+127.0.0.1 robotrefinery.com
 127.0.0.1 traffic.hyteck.de
 127.0.0.1 links.email.crunchbase.com
 127.0.0.1 mediasmart.io
