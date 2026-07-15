@@ -1,4 +1,4 @@
-# Update time: 2026-07-14 22:03:54
+# Update time: 2026-07-15 11:18:22
 # Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重
 
 ###################################   合并/去重自以下规则   ####################################
@@ -444,6 +444,7 @@
 127.0.0.1 savoryorange.com
 127.0.0.1 adtrk1.com
 127.0.0.1 aloofvest.com
+127.0.0.1 magnetise.io
 127.0.0.1 ad-server.gulasidorna.se
 127.0.0.1 hb.vntsm.com
 127.0.0.1 adstacks.in
