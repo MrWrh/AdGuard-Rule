@@ -1,4 +1,4 @@
-# Update time: 2026-07-17 11:28:11
+# Update time: 2026-07-17 21:55:50
 # Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重
 
 ###################################   合并/去重自以下规则   ####################################
@@ -505,7 +505,6 @@
 127.0.0.1 ads.fairfax.com.au
 127.0.0.1 mobileanalytics.us-east-1.amazonaws.com
 127.0.0.1 piquantpigs.com
-127.0.0.1 ad.wsod.com
 127.0.0.1 ads.o2.pl
 127.0.0.1 metrics-a.wbx2.com
 127.0.0.1 echoacloud.com
@@ -677,7 +676,6 @@
 127.0.0.1 incognitosearches.com
 127.0.0.1 tracker.cdnbye.com
 127.0.0.1 d81mfvml8p5ml.cloudfront.net
-127.0.0.1 resalag.com
 127.0.0.1 robotreplay.com
 127.0.0.1 helpcollar.com
 127.0.0.1 ezula.com
@@ -833,7 +831,6 @@
 127.0.0.1 async.gsyndication.com
 127.0.0.1 protectsubrev.com
 127.0.0.1 banner.ambercoastcasino.com
-127.0.0.1 wirypaste.com
 127.0.0.1 trafficrouter.io
 127.0.0.1 ads.mvscoelho.com
 127.0.0.1 adlooxtracking.com
@@ -884,7 +881,6 @@
 127.0.0.1 ads.usatoday.com
 127.0.0.1 ads2004.treiberupdate.de
 127.0.0.1 mtree.com
-127.0.0.1 sadloaf.com
 127.0.0.1 experianmarketingservices.digital
 127.0.0.1 performancerevenues.com
 127.0.0.1 bagsurprise.com
@@ -992,7 +988,6 @@
 127.0.0.1 realclix.com
 127.0.0.1 correctedcode.com
 127.0.0.1 tracker.samplicio.us
-127.0.0.1 look.ichlnk.com
 127.0.0.1 ads.hollywood.com
 127.0.0.1 oxcash.com
 127.0.0.1 postback.iqm.com
@@ -1186,7 +1181,6 @@
 127.0.0.1 pointroll.com
 127.0.0.1 adexchangeprediction.com
 127.0.0.1 freewheel.tv
-127.0.0.1 pymx5.com
 127.0.0.1 eurekster.com
 127.0.0.1 track.mailalert.io
 127.0.0.1 bidtellect.com
@@ -1219,7 +1213,6 @@
 127.0.0.1 boilingmadsoup.com
 127.0.0.1 vengefulgrass.com
 127.0.0.1 mediafuse.com
-127.0.0.1 ads2.brazzers.com
 127.0.0.1 doqpm.click
 127.0.0.1 teads.tv
 127.0.0.1 pixel.keywee.co
@@ -1392,6 +1385,7 @@
 127.0.0.1 intelliads.com
 127.0.0.1 track.anchorfree.com
 127.0.0.1 dapper.net
+127.0.0.1 domaining.in
 127.0.0.1 link.beelivery.com
 127.0.0.1 personagraph.com
 127.0.0.1 reachjunction.com
@@ -2697,6 +2691,7 @@
 127.0.0.1 adstest.weather.com
 127.0.0.1 eversales.space
 127.0.0.1 funtoyplanet.com
+127.0.0.1 webtrackerplus.com
 127.0.0.1 pubnative.net
 127.0.0.1 adlightning.com
 127.0.0.1 ads.ibryte.com
@@ -2929,7 +2924,6 @@
 127.0.0.1 seadform.net
 127.0.0.1 herbalaffiliateprogram.com
 127.0.0.1 hits.sh
-127.0.0.1 look.opskln.com
 127.0.0.1 track.vcdc.com
 127.0.0.1 fallingshoals.com
 127.0.0.1 spinbox.techtracker.com
@@ -3004,7 +2998,6 @@
 127.0.0.1 ivykiosk.com
 127.0.0.1 ad-score.com
 127.0.0.1 amazon-adsystem.com
-127.0.0.1 getxmlisi.com
 127.0.0.1 webads.co.nz
 127.0.0.1 ad.centrum.cz
 127.0.0.1 clientmetrics-pa.googleapis.com
@@ -3083,7 +3076,6 @@
 127.0.0.1 admidadsp.com
 127.0.0.1 adinterax.com
 127.0.0.1 mediascale.de
-127.0.0.1 welved.com
 127.0.0.1 targetnet.com
 127.0.0.1 collector-dev.cdp-dev.cnn.com
 127.0.0.1 jsrdn.com
