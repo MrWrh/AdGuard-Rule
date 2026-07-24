@@ -1,4 +1,4 @@
-# Update time: 2026-07-24 11:31:56
+# Update time: 2026-07-24 22:02:06
 # Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重
 
 ###################################   合并/去重自以下规则   ####################################
@@ -229,7 +229,6 @@
 127.0.0.1 adsynergy.com
 127.0.0.1 beacons.gcp.gvt2.com
 127.0.0.1 lizardslaugh.com
-127.0.0.1 starkscale.com
 127.0.0.1 adtechus.com
 127.0.0.1 fireads.online
 127.0.0.1 actionsplash.com
@@ -758,7 +757,6 @@
 127.0.0.1 adzbazar.com
 127.0.0.1 adtilt.com
 127.0.0.1 everesttech.net
-127.0.0.1 videostats.kakao.com
 127.0.0.1 analytics.poolshool.com
 127.0.0.1 myaffiliateprogram.com
 127.0.0.1 ads.imgur.com
@@ -858,7 +856,6 @@
 127.0.0.1 lbn.ru
 127.0.0.1 researchlog.dbresearch.com
 127.0.0.1 ad2.netriota.hu
-127.0.0.1 affiliates.babylon.com
 127.0.0.1 click.justwatch.com
 127.0.0.1 trck.mtrgt.id
 127.0.0.1 ientrymail.com
@@ -2226,7 +2223,6 @@
 127.0.0.1 cdn.onesignal.com
 127.0.0.1 ads.infi.net
 127.0.0.1 essaygiants.com
-127.0.0.1 gotoyahoo.com
 127.0.0.1 lead02.com
 127.0.0.1 recapture.io
 127.0.0.1 spotscenered.info
@@ -2351,7 +2347,6 @@
 127.0.0.1 webgains.com
 127.0.0.1 ebayadvertising.com
 127.0.0.1 fusionads.net
-127.0.0.1 userreplay.net
 127.0.0.1 audience.media
 127.0.0.1 hits-i.iubenda.com
 127.0.0.1 cl0udh0st1ng.com
@@ -3488,7 +3483,6 @@
 127.0.0.1 servedbyadbutler.com
 127.0.0.1 stakingsmile.com
 127.0.0.1 tia.timeinc.net
-127.0.0.1 advertipros.com
 127.0.0.1 adserver.friendfinder.com
 127.0.0.1 nzaza.com
 127.0.0.1 cdn.freshmarketer.com
