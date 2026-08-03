@@ -1,4 +1,4 @@
-# Update time: 2026-08-03 11:41:55
+# Update time: 2026-08-03 23:08:03
 # Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重
 
 ###################################   合并/去重自以下规则   ####################################
@@ -1756,6 +1756,7 @@
 127.0.0.1 httpool.com
 127.0.0.1 trcklion.com
 127.0.0.1 servedby-buysellads.com
+127.0.0.1 c.trkn.it
 127.0.0.1 adhunter.media
 127.0.0.1 cratecamera.com
 127.0.0.1 untd.com
@@ -2506,6 +2507,7 @@
 127.0.0.1 tatsumi-sys.jp
 127.0.0.1 code.etracker.com
 127.0.0.1 sillyscrew.com
+127.0.0.1 pocustrack.com
 127.0.0.1 wholepagecache.com
 127.0.0.1 mybuys.com
 127.0.0.1 leftliquid.com
@@ -2910,6 +2912,7 @@
 127.0.0.1 zion-telemetry.api.cnn.io
 127.0.0.1 wt.bankmillennium.pl
 127.0.0.1 adserver.trojaner-info.de
+127.0.0.1 honeybutterbliss.com
 127.0.0.1 ad4game.com
 127.0.0.1 tls.telemetry.swe.quicinc.com
 127.0.0.1 click.airmalta-mail.com
@@ -2938,6 +2941,7 @@
 127.0.0.1 metrics.api.drift.com
 127.0.0.1 click.i.southwesternrailway.com
 127.0.0.1 ad.digitallook.com
+127.0.0.1 analytics.tempy.email
 127.0.0.1 clksite.com
 127.0.0.1 juicyads.me
 127.0.0.1 ads.saymedia.com
