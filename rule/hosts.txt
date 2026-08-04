@@ -1,4 +1,4 @@
-# Update time: 2026-08-04 11:26:49
+# Update time: 2026-08-04 22:33:44
 # Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重
 
 ###################################   合并/去重自以下规则   ####################################
@@ -476,6 +476,7 @@
 127.0.0.1 shinystat.it
 127.0.0.1 vidora.com
 127.0.0.1 82o9v830.com
+127.0.0.1 amcnreil.pro
 127.0.0.1 srvmath.com
 127.0.0.1 euros4click.de
 127.0.0.1 f.pie.org
