@@ -1,4 +1,4 @@
-# Update time: 2026-08-07 21:20:23
+# Update time: 2026-08-08 10:07:38
 # Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重
 
 ###################################   合并/去重自以下规则   ####################################
@@ -2580,6 +2580,7 @@
 127.0.0.1 mediasquare.fr
 127.0.0.1 insightexpress.com
 127.0.0.1 discreetfield.com
+127.0.0.1 t.marketing.goindigo.in
 127.0.0.1 shiveringspot.com
 127.0.0.1 floweryflavor.com
 127.0.0.1 links.zoopla.co.uk
