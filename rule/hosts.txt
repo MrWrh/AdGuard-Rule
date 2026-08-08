@@ -1,4 +1,4 @@
-# Update time: 2026-08-08 10:07:38
+# Update time: 2026-08-08 21:04:07
 # Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重
 
 ###################################   合并/去重自以下规则   ####################################
@@ -1516,6 +1516,7 @@
 127.0.0.1 clicks.eventbrite.com
 127.0.0.1 ad.allboxing.ru
 127.0.0.1 chalkdream.com
+127.0.0.1 pulse.genki.world
 127.0.0.1 counter.cz
 127.0.0.1 link.sbstck.com
 127.0.0.1 banner.easyspace.com
@@ -2325,6 +2326,7 @@
 127.0.0.1 e.customeriomail.com
 127.0.0.1 adservice.google.com.mt
 127.0.0.1 netclickstats.com
+127.0.0.1 ampscamp.net
 127.0.0.1 openads.friendfinder.com
 127.0.0.1 fishingtoolsbox.com
 127.0.0.1 unwieldyhealth.com
