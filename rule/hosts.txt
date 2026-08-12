@@ -1,4 +1,4 @@
-# Update time: 2026-08-12 10:33:11
+# Update time: 2026-08-12 21:27:00
 # Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重
 
 ###################################   合并/去重自以下规则   ####################################
@@ -1493,6 +1493,7 @@
 127.0.0.1 minibilling.com
 127.0.0.1 adrecover.com
 127.0.0.1 tracking.wetter.at
+127.0.0.1 data.hailuo.ai
 127.0.0.1 et.nytimes.com
 127.0.0.1 g2.gumgum.com
 127.0.0.1 phoenix-adrunner.mycomputer.com
@@ -2653,6 +2654,7 @@
 127.0.0.1 easyhits4u.com
 127.0.0.1 q.azcentral.com
 127.0.0.1 mrskincash.com
+127.0.0.1 rum-openway.guance.com
 127.0.0.1 creatives.livejasmin.com
 127.0.0.1 wwwpromoter.com
 127.0.0.1 analytics-production.hapyak.com
