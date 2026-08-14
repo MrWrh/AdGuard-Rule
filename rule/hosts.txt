@@ -1,4 +1,4 @@
-# Update time: 2026-08-13 21:34:46
+# Update time: 2026-08-14 10:33:00
 # Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重
 
 ###################################   合并/去重自以下规则   ####################################
@@ -1067,6 +1067,7 @@
 127.0.0.1 webstat.com
 127.0.0.1 stats4all.com
 127.0.0.1 sextracker.com
+127.0.0.1 pubfuture-ssp.com
 127.0.0.1 rockabox.co
 127.0.0.1 mediageneral.com
 127.0.0.1 ads.gsmexchange.com
