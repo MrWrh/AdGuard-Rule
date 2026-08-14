@@ -1,4 +1,4 @@
-# Update time: 2026-08-14 10:33:00
+# Update time: 2026-08-14 21:22:57
 # Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重
 
 ###################################   合并/去重自以下规则   ####################################
@@ -435,7 +435,6 @@
 127.0.0.1 radiate.com
 127.0.0.1 explorads.com
 127.0.0.1 adsfac.us
-127.0.0.1 advariant.com
 127.0.0.1 adexpose.com
 127.0.0.1 boffoadsapi.com
 127.0.0.1 ads.nzcity.co.nz
@@ -476,7 +475,6 @@
 127.0.0.1 shinystat.it
 127.0.0.1 vidora.com
 127.0.0.1 82o9v830.com
-127.0.0.1 amcnreil.pro
 127.0.0.1 srvmath.com
 127.0.0.1 euros4click.de
 127.0.0.1 f.pie.org
@@ -897,7 +895,6 @@
 127.0.0.1 deepintent.com
 127.0.0.1 adjug.com
 127.0.0.1 adimages.carsoup.com
-127.0.0.1 ad.choiceradio.com
 127.0.0.1 adserver.twitpic.com
 127.0.0.1 maxonclick.com
 127.0.0.1 webreseau.com
@@ -1704,7 +1701,6 @@
 127.0.0.1 adcycle.com
 127.0.0.1 tsa.webex.com
 127.0.0.1 ads.fortunecity.com
-127.0.0.1 reconditerake.com
 127.0.0.1 aax-eu-dub.amazon.com
 127.0.0.1 actuallysheep.com
 127.0.0.1 laughcloth.com
@@ -1994,7 +1990,6 @@
 127.0.0.1 audit.median.hu
 127.0.0.1 realcastmedia.com
 127.0.0.1 beacon.gu-web.net
-127.0.0.1 galaxien.com
 127.0.0.1 ad.mediastorm.hu
 127.0.0.1 adv.webmd.com
 127.0.0.1 video-stats.video.google.com
@@ -2620,7 +2615,6 @@
 127.0.0.1 exitfuel.com
 127.0.0.1 goqon.com
 127.0.0.1 topstats.com
-127.0.0.1 ads.epltalk.com
 127.0.0.1 marketingsolutions.yahoo.com
 127.0.0.1 billboard.cz
 127.0.0.1 launchbit.com
@@ -2690,7 +2684,6 @@
 127.0.0.1 previousplayground.com
 127.0.0.1 adrta.com
 127.0.0.1 metrics.govexec.com
-127.0.0.1 ads-backend.chaincliq.com
 127.0.0.1 painstakingpickle.com
 127.0.0.1 backbeatmedia.com
 127.0.0.1 promo.badoink.com
@@ -3027,6 +3020,7 @@
 127.0.0.1 industrybrains.com
 127.0.0.1 ads.sift.co.uk
 127.0.0.1 securityannex.net
+127.0.0.1 impressionmedia.cz
 127.0.0.1 zzhc.vnet.cn
 127.0.0.1 affiliatetracking.net
 127.0.0.1 adserver.bing.com
@@ -3163,6 +3157,7 @@
 127.0.0.1 overconfidentfood.com
 127.0.0.1 2linkpath.com
 127.0.0.1 ayads.co
+127.0.0.1 ingest.in.signoz.cloud
 127.0.0.1 adsponse.de
 127.0.0.1 popplantation.com
 127.0.0.1 adjix.com
