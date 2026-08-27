@@ -1,4 +1,4 @@
-# Update time: 2026-08-27 17:19:50
+# Update time: 2026-08-28 06:11:12
 # Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重
 
 ###################################   合并/去重自以下规则   ####################################
@@ -1858,6 +1858,7 @@
 127.0.0.1 ad.lgappstv.com
 127.0.0.1 www-google-analytics.l.google.com
 127.0.0.1 adonspot.com
+127.0.0.1 de.tynt.com
 127.0.0.1 adimgs.sapo.pt
 127.0.0.1 tealium.com
 127.0.0.1 glisteningsign.com
