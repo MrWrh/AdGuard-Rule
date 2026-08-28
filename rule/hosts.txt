@@ -1,4 +1,4 @@
-# Update time: 2026-08-28 06:11:12
+# Update time: 2026-08-28 19:09:32
 # Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重
 
 ###################################   合并/去重自以下规则   ####################################
@@ -1560,6 +1560,7 @@
 127.0.0.1 succeedscene.com
 127.0.0.1 screechingfurniture.com
 127.0.0.1 mystat-in.net
+127.0.0.1 ads180.com
 127.0.0.1 trk42.net
 127.0.0.1 lgsmartad.com
 127.0.0.1 track.effiliation.com
@@ -1573,6 +1574,7 @@
 127.0.0.1 js-api.otherlevels.com
 127.0.0.1 adv.freeonline.it
 127.0.0.1 twittad.com
+127.0.0.1 akstat.io
 127.0.0.1 quickkoala.io
 127.0.0.1 vid.pubmatic.com
 127.0.0.1 railwayreason.com
@@ -2004,7 +2006,6 @@
 127.0.0.1 cloudflareinsights.com
 127.0.0.1 sskzlabs.com
 127.0.0.1 pstmrk.it
-127.0.0.1 ads.shopstyle.com
 127.0.0.1 ilead.itrack.it
 127.0.0.1 metrics.gfycat.com
 127.0.0.1 valerie.forbes.com
@@ -2610,7 +2611,6 @@
 127.0.0.1 monarchads.com
 127.0.0.1 adtology.com
 127.0.0.1 affiliates.allposters.com
-127.0.0.1 50websads.com
 127.0.0.1 n69.com
 127.0.0.1 silvermob.com
 127.0.0.1 exitfuel.com
