@@ -1,4 +1,4 @@
-# Update time: 2026-08-28 19:09:32
+# Update time: 2026-08-29 06:11:24
 # Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重
 
 ###################################   合并/去重自以下规则   ####################################
@@ -922,6 +922,7 @@
 127.0.0.1 bizzclick.com
 127.0.0.1 zephyrlabyrinth.com
 127.0.0.1 track-eu.customer.io
+127.0.0.1 stat.lianmeng.360.cn
 127.0.0.1 netmera.com
 127.0.0.1 tracking101.com
 127.0.0.1 ads.bigchurch.com
@@ -1610,6 +1611,7 @@
 127.0.0.1 adserver.hwupgrade.it
 127.0.0.1 themangotea.com
 127.0.0.1 box.anchorfree.net
+127.0.0.1 px.mountain.com
 127.0.0.1 netaffiliation.com
 127.0.0.1 chitika.net
 127.0.0.1 tangyamount.com
@@ -1991,7 +1993,6 @@
 127.0.0.1 adhese.be
 127.0.0.1 displayvertising.com
 127.0.0.1 audit.median.hu
-127.0.0.1 realcastmedia.com
 127.0.0.1 beacon.gu-web.net
 127.0.0.1 galaxien.com
 127.0.0.1 ad.mediastorm.hu
