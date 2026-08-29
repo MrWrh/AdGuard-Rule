@@ -1,4 +1,4 @@
-# Update time: 2026-08-29 14:53:54
+# Update time: 2026-08-30 00:38:40
 # Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重
 
 ###################################   合并/去重自以下规则   ####################################
@@ -259,6 +259,7 @@
 127.0.0.1 takethatad.com
 127.0.0.1 partner-ads.com
 127.0.0.1 tiresomethunder.com
+127.0.0.1 tracking.hostgator.com
 127.0.0.1 postrelease.com
 127.0.0.1 fullstory.com
 127.0.0.1 offaces-butional.com
@@ -279,6 +280,7 @@
 127.0.0.1 e-planning.net
 127.0.0.1 flurry.com
 127.0.0.1 topsir.com
+127.0.0.1 track.mediav.com
 127.0.0.1 ads.twitter.com
 127.0.0.1 calculatorstatement.com
 127.0.0.1 ilbanner.com
@@ -347,6 +349,7 @@
 127.0.0.1 ads.annabac.com
 127.0.0.1 fillthemap.com
 127.0.0.1 d1f0tbk1v3e25u.cloudfront.net
+127.0.0.1 a.vfgth.com
 127.0.0.1 contextweb.com
 127.0.0.1 datenow.link
 127.0.0.1 2020mustang.com
@@ -598,6 +601,7 @@
 127.0.0.1 adland.ru
 127.0.0.1 itop.cz
 127.0.0.1 mas.sector.sk
+127.0.0.1 51.la
 127.0.0.1 ads.forbes.net
 127.0.0.1 pbnet.ru
 127.0.0.1 admixer.net
@@ -1483,6 +1487,7 @@
 127.0.0.1 curveshore.com
 127.0.0.1 go2cloud.org
 127.0.0.1 ads.boylesports.com
+127.0.0.1 bat.bing.net
 127.0.0.1 valuead.com
 127.0.0.1 skimresources.com
 127.0.0.1 wirecomic.com
@@ -2900,6 +2905,7 @@
 127.0.0.1 st.dynamicyield.com
 127.0.0.1 emebo.io
 127.0.0.1 xad.com
+127.0.0.1 sdk.51.la
 127.0.0.1 image6.pubmatic.com
 127.0.0.1 ads.adred.de
 127.0.0.1 xfreeservice.com
@@ -2964,6 +2970,7 @@
 127.0.0.1 adingo.jp
 127.0.0.1 trafficleader.com
 127.0.0.1 openx.cairo360.com
+127.0.0.1 bdv.bidvertiser.com
 127.0.0.1 gondolagnome.com
 127.0.0.1 plugrush.com
 127.0.0.1 ad.myapple.pl
@@ -3060,6 +3067,7 @@
 127.0.0.1 enginenetwork.com
 127.0.0.1 revcontent.com
 127.0.0.1 monsterpops.com
+127.0.0.1 maliva-mcs.byteoversea.com
 127.0.0.1 px.gfycat.com
 127.0.0.1 adswizz.com
 127.0.0.1 advnt.com
@@ -3080,6 +3088,7 @@
 127.0.0.1 url9467.comms-2.zoopla.co.uk
 127.0.0.1 admidadsp.com
 127.0.0.1 adinterax.com
+127.0.0.1 t.nc0.co
 127.0.0.1 mediascale.de
 127.0.0.1 targetnet.com
 127.0.0.1 collector-dev.cdp-dev.cnn.com
