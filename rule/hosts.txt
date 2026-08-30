@@ -1,4 +1,4 @@
-# Update time: 2026-08-30 13:08:53
+# Update time: 2026-08-31 00:33:47
 # Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重
 
 ###################################   合并/去重自以下规则   ####################################
@@ -1524,6 +1524,7 @@
 127.0.0.1 adengage.com
 127.0.0.1 adsfac.eu
 127.0.0.1 clicks.eventbrite.com
+127.0.0.1 obs.sd4823.spglobal.com
 127.0.0.1 ad.allboxing.ru
 127.0.0.1 chalkdream.com
 127.0.0.1 pulse.genki.world
@@ -1715,6 +1716,7 @@
 127.0.0.1 ads.fortunecity.com
 127.0.0.1 aax-eu-dub.amazon.com
 127.0.0.1 actuallysheep.com
+127.0.0.1 xml-v4.oceanfall.xyz
 127.0.0.1 laughcloth.com
 127.0.0.1 possibleboats.com
 127.0.0.1 tawdryson.com
