@@ -1,4 +1,4 @@
-# Update time: 2026-08-30 00:38:40
+# Update time: 2026-08-30 13:08:53
 # Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重
 
 ###################################   合并/去重自以下规则   ####################################
@@ -111,6 +111,7 @@
 127.0.0.1 marketing.net.home24.de
 127.0.0.1 wowfunnow.com
 127.0.0.1 funnelytics.io
+127.0.0.1 pooinc-7dw.pages.dev
 127.0.0.1 links-ranking.de
 127.0.0.1 newsadsppush.com
 127.0.0.1 207.net
@@ -152,6 +153,7 @@
 127.0.0.1 mybbc-analytics.files.bbci.co.uk
 127.0.0.1 bidpapers.com
 127.0.0.1 ritzyrepresentative.com
+127.0.0.1 xdrig.com
 127.0.0.1 linkprice.com
 127.0.0.1 locolava.com
 127.0.0.1 copperstills.net
@@ -270,6 +272,7 @@
 127.0.0.1 nondescriptcrowd.com
 127.0.0.1 adabra.com
 127.0.0.1 kueezrtb.com
+127.0.0.1 t.dtscdn.com
 127.0.0.1 volatilevessel.com
 127.0.0.1 vcommission.com
 127.0.0.1 feedbackresearch.com
@@ -1806,6 +1809,7 @@
 127.0.0.1 adv.wp.pl
 127.0.0.1 affili.net
 127.0.0.1 adserver.cams.com
+127.0.0.1 ads.egrana.com.br
 127.0.0.1 oppuz.com
 127.0.0.1 impossibleexpansion.com
 127.0.0.1 leadclick.com
@@ -2205,6 +2209,7 @@
 127.0.0.1 soggysponge.com
 127.0.0.1 ads.cc-dt.com
 127.0.0.1 admanager.btopenworld.com
+127.0.0.1 fenxi.com
 127.0.0.1 free-counter.co.uk
 127.0.0.1 tracker.mmdlv.it
 127.0.0.1 puffypaste.com
@@ -2301,6 +2306,7 @@
 127.0.0.1 view4cash.de
 127.0.0.1 marketo.com
 127.0.0.1 prf.hn
+127.0.0.1 admaster.cc
 127.0.0.1 ads.deviantart.com
 127.0.0.1 appboycdn.com
 127.0.0.1 engineertrick.com
@@ -2541,6 +2547,7 @@
 127.0.0.1 webcontentassessor.com
 127.0.0.1 flashtexting.com
 127.0.0.1 app-analytics-v2.snapchat.com
+127.0.0.1 ads.zorvec.name
 127.0.0.1 auto-bannertausch.de
 127.0.0.1 hightrafficads.com
 127.0.0.1 iad.anm.co.uk
