@@ -1,4 +1,4 @@
-# Update time: 2026-08-31 13:16:30
+# Update time: 2026-09-01 03:05:10
 # Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重
 
 ###################################   合并/去重自以下规则   ####################################
@@ -2716,6 +2716,7 @@
 127.0.0.1 evergage.com
 127.0.0.1 marriedbelief.com
 127.0.0.1 ad.bizo.com
+127.0.0.1 a.pemsrv.com
 127.0.0.1 insidepsych.net
 127.0.0.1 stats.merriam-webster.com
 127.0.0.1 adotmob.com
@@ -3254,6 +3255,7 @@
 127.0.0.1 whirlwealth.com
 127.0.0.1 ad.style
 127.0.0.1 rtbplatform.net
+127.0.0.1 supercounters.com
 127.0.0.1 adsatt.espn.starwave.com
 127.0.0.1 adrotic.girlonthenet.com
 127.0.0.1 adtraction.com
