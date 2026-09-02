@@ -1,4 +1,4 @@
-# Update time: 2026-09-02 12:12:09
+# Update time: 2026-09-03 00:27:48
 # Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重
 
 ###################################   合并/去重自以下规则   ####################################
@@ -790,6 +790,7 @@
 127.0.0.1 email-open.adtidy.net
 127.0.0.1 omtrdc.net
 127.0.0.1 client-logs-a.wbx2.com
+127.0.0.1 pemsrv.com
 127.0.0.1 relmaxtop.com
 127.0.0.1 adhigh.net
 127.0.0.1 redirectingat.com
@@ -1746,6 +1747,7 @@
 127.0.0.1 adtrack.voicestar.com
 127.0.0.1 api.kameleoon.com
 127.0.0.1 bidclix.com
+127.0.0.1 opoxv.com
 127.0.0.1 perfectaudience.com
 127.0.0.1 bpath.com
 127.0.0.1 go.clickwww.com
