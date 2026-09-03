@@ -1,4 +1,4 @@
-# Update time: 2026-09-03 12:09:40
+# Update time: 2026-09-04 00:18:10
 # Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重
 
 ###################################   合并/去重自以下规则   ####################################
@@ -1426,6 +1426,7 @@
 127.0.0.1 admarketplace.net
 127.0.0.1 kittentacos.com
 127.0.0.1 exponea.com
+127.0.0.1 adtagj.portal-factory.com
 127.0.0.1 atdmt.com
 127.0.0.1 ad.exyws.org
 127.0.0.1 4info.com
@@ -3142,6 +3143,7 @@
 127.0.0.1 livingsleet.com
 127.0.0.1 maximiser.net
 127.0.0.1 cosmosjackson.com
+127.0.0.1 pubbug.com
 127.0.0.1 static.etracker.com
 127.0.0.1 responsiveads.com
 127.0.0.1 clk1011.com
