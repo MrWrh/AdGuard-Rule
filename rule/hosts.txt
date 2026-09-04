@@ -1,4 +1,4 @@
-# Update time: 2026-09-04 12:15:02
+# Update time: 2026-09-05 00:13:25
 # Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重
 
 ###################################   合并/去重自以下规则   ####################################
@@ -718,6 +718,7 @@
 127.0.0.1 spywords.com
 127.0.0.1 banner.reinstil.de
 127.0.0.1 erne.co
+127.0.0.1 s.uuidksinc.net
 127.0.0.1 ads.casinocity.com
 127.0.0.1 api.eu.amplitude.com
 127.0.0.1 ads.guardianunlimited.co.uk
@@ -1226,7 +1227,6 @@
 127.0.0.1 mediafuse.com
 127.0.0.1 doqpm.click
 127.0.0.1 teads.tv
-127.0.0.1 pixel.keywee.co
 127.0.0.1 metajaws.com
 127.0.0.1 ads.aavv.com
 127.0.0.1 steelhouse.com
@@ -1298,7 +1298,6 @@
 127.0.0.1 marketing.net.occhiali24.it
 127.0.0.1 greystripe.com
 127.0.0.1 cpalead.com
-127.0.0.1 hentaicounter.com
 127.0.0.1 log.btopenworld.com
 127.0.0.1 revive.netriota.hu
 127.0.0.1 recoco.it
@@ -2173,6 +2172,7 @@
 127.0.0.1 ads.comeon.com
 127.0.0.1 rotabanner.com
 127.0.0.1 eclick.vn
+127.0.0.1 adserv.snigelweb.com
 127.0.0.1 advertiserurl.com
 127.0.0.1 shredform.com
 127.0.0.1 imgpromo.easyrencontre.com
@@ -2366,7 +2366,6 @@
 127.0.0.1 fireworks-advertising.com
 127.0.0.1 rtbadzesto.com
 127.0.0.1 carsarace.com
-127.0.0.1 adv.donejty.pl
 127.0.0.1 nend.net
 127.0.0.1 pocketfaucet.com
 127.0.0.1 webgains.com
@@ -2707,10 +2706,10 @@
 127.0.0.1 painstakingpickle.com
 127.0.0.1 backbeatmedia.com
 127.0.0.1 promo.badoink.com
+127.0.0.1 link-booster.de
 127.0.0.1 ads.com.com
 127.0.0.1 wintricksbanner.googlepages.com
 127.0.0.1 adstest.weather.com
-127.0.0.1 eversales.space
 127.0.0.1 funtoyplanet.com
 127.0.0.1 webtrackerplus.com
 127.0.0.1 pubnative.net
@@ -3004,7 +3003,6 @@
 127.0.0.1 applovin.com
 127.0.0.1 nexac.com
 127.0.0.1 calculatingcircle.com
-127.0.0.1 clickngo.pro
 127.0.0.1 cdn.bannerflow.com
 127.0.0.1 hamsterspot.com
 127.0.0.1 adbroker.de
@@ -3293,7 +3291,6 @@
 127.0.0.1 adcash.com
 127.0.0.1 adserverplus.com
 127.0.0.1 sanalytics.disneyplus.com
-127.0.0.1 ads.schmoozecom.net
 127.0.0.1 soicos.com
 127.0.0.1 smetrics.ctv.ca
 127.0.0.1 ads.independent.com.mt
@@ -3504,7 +3501,6 @@
 127.0.0.1 api.swetrix.com
 127.0.0.1 pxl-mailtracker.com
 127.0.0.1 ad-balancer.net
-127.0.0.1 adserver.janes.com
 127.0.0.1 c.bigmir.net
 127.0.0.1 bannerserver.com
 127.0.0.1 socialspark.com
@@ -3547,7 +3543,6 @@
 127.0.0.1 ad.lupa.cz
 127.0.0.1 uu.domainforlite.com
 127.0.0.1 www.photo-ads.co.uk
-127.0.0.1 findcommerce.com
 127.0.0.1 tapfiliate.com
 127.0.0.1 chargecracker.com
 127.0.0.1 analytics.lucid.app
