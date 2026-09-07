@@ -1,4 +1,4 @@
-# Update time: 2026-09-07 12:18:30
+# Update time: 2026-09-08 01:41:13
 # Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重
 
 ###################################   合并/去重自以下规则   ####################################
@@ -508,6 +508,7 @@
 127.0.0.1 ads.webmasterpoint.org
 127.0.0.1 ads.fairfax.com.au
 127.0.0.1 mobileanalytics.us-east-1.amazonaws.com
+127.0.0.1 ads.lzjl.com
 127.0.0.1 piquantpigs.com
 127.0.0.1 ads.o2.pl
 127.0.0.1 metrics-a.wbx2.com
@@ -3077,6 +3078,7 @@
 127.0.0.1 alipromo.com
 127.0.0.1 enginenetwork.com
 127.0.0.1 revcontent.com
+127.0.0.1 yads.tech
 127.0.0.1 monsterpops.com
 127.0.0.1 maliva-mcs.byteoversea.com
 127.0.0.1 px.gfycat.com
