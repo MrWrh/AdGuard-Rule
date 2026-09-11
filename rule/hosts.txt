@@ -1,4 +1,4 @@
-# Update time: 2026-09-11 12:21:51
+# Update time: 2026-09-12 00:20:59
 # Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重
 
 ###################################   合并/去重自以下规则   ####################################
@@ -74,7 +74,6 @@
 127.0.0.1 pixel.watch
 127.0.0.1 ads.nyx.cz
 127.0.0.1 trk1.avdlink.net
-127.0.0.1 cluster.adultworld.com
 127.0.0.1 r.drinksdirect.net
 127.0.0.1 t.firstpromoter.com
 127.0.0.1 ads.newsquest.co.uk
@@ -126,6 +125,7 @@
 127.0.0.1 belstat.com
 127.0.0.1 quantummetric.com
 127.0.0.1 smart-traffik.io
+127.0.0.1 jewelrysprings.com
 127.0.0.1 ads.fotosidan.se
 127.0.0.1 alchemist.go2cloud.org
 127.0.0.1 api.affiliations.site
@@ -1075,6 +1075,7 @@
 127.0.0.1 coxmt.com
 127.0.0.1 popuptraffic.com
 127.0.0.1 adserver.bizedge.com
+127.0.0.1 bigworldfashion.com
 127.0.0.1 sail-horizon.com
 127.0.0.1 webstat.com
 127.0.0.1 stats4all.com
@@ -1243,6 +1244,7 @@
 127.0.0.1 adsatt.abcnews.starwave.com
 127.0.0.1 wittypopcorn.com
 127.0.0.1 yieldoptimizer.com
+127.0.0.1 bastingart.com
 127.0.0.1 tumbleicicle.com
 127.0.0.1 steadfastsystem.com
 127.0.0.1 online.miarroba.com
@@ -1277,6 +1279,7 @@
 127.0.0.1 measuremap.com
 127.0.0.1 frtyj.com
 127.0.0.1 leadplace.fr
+127.0.0.1 roaddynamics.com
 127.0.0.1 smetrics.bestbuy.com
 127.0.0.1 imonomy.com
 127.0.0.1 logua.com
@@ -1468,6 +1471,7 @@
 127.0.0.1 aralego.com
 127.0.0.1 imp.i312864.net
 127.0.0.1 tsyndicate.net
+127.0.0.1 optionsnomad.com
 127.0.0.1 pix.spot.im
 127.0.0.1 ads.pubmatic.com
 127.0.0.1 admeridianads.com
@@ -2184,6 +2188,7 @@
 127.0.0.1 nr.mmcdn.com
 127.0.0.1 banner.finzoom.ro
 127.0.0.1 conditionchange.com
+127.0.0.1 writerhubs.com
 127.0.0.1 adserve.gkeurope.de
 127.0.0.1 mackeeperapp.mackeeper.com
 127.0.0.1 adserverxxl.de
@@ -2825,7 +2830,6 @@
 127.0.0.1 e37364.dscd.akamaiedge.net
 127.0.0.1 ak0gsh40.com
 127.0.0.1 ads.administrator.de
-127.0.0.1 newt1.adultworld.com
 127.0.0.1 jcount.com
 127.0.0.1 aa-metrics.recruit-card.jp
 127.0.0.1 go-mpulse.net
@@ -3015,6 +3019,7 @@
 127.0.0.1 metrilo.com
 127.0.0.1 adrotate.de
 127.0.0.1 alenty.com
+127.0.0.1 kernellife.com
 127.0.0.1 offerforge.com
 127.0.0.1 coremetrics.com
 127.0.0.1 jdoqocy.com
@@ -3140,6 +3145,7 @@
 127.0.0.1 dsp.io
 127.0.0.1 hb.afl.rakuten.co.jp
 127.0.0.1 servclick1move.com
+127.0.0.1 partnerhut.com
 127.0.0.1 acustomizedgift.com
 127.0.0.1 yieldmanager.net
 127.0.0.1 bleachbubble.com
@@ -3231,6 +3237,7 @@
 127.0.0.1 widget.educationdynamics.com
 127.0.0.1 realmedia-a800.d4p.net
 127.0.0.1 tidaltv.com
+127.0.0.1 absolutering.com
 127.0.0.1 doubleclick.de
 127.0.0.1 flowgo.com
 127.0.0.1 ads.filmup.com
@@ -3548,6 +3555,7 @@
 127.0.0.1 ad.lupa.cz
 127.0.0.1 uu.domainforlite.com
 127.0.0.1 www.photo-ads.co.uk
+127.0.0.1 findcommerce.com
 127.0.0.1 tapfiliate.com
 127.0.0.1 chargecracker.com
 127.0.0.1 analytics.lucid.app
