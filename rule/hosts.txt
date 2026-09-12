@@ -1,4 +1,4 @@
-# Update time: 2026-09-12 00:20:59
+# Update time: 2026-09-12 12:20:31
 # Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重
 
 ###################################   合并/去重自以下规则   ####################################
@@ -274,6 +274,7 @@
 127.0.0.1 kueezrtb.com
 127.0.0.1 t.dtscdn.com
 127.0.0.1 volatilevessel.com
+127.0.0.1 tr.p.360.cn
 127.0.0.1 vcommission.com
 127.0.0.1 feedbackresearch.com
 127.0.0.1 nondescriptnote.com
@@ -1642,6 +1643,7 @@
 127.0.0.1 adyoulike.com
 127.0.0.1 lfstmedia.com
 127.0.0.1 zantracker.com
+127.0.0.1 4dex.io
 127.0.0.1 adbrite.com
 127.0.0.1 clikerz.net
 127.0.0.1 track1.viewdeos.com
@@ -2050,6 +2052,7 @@
 127.0.0.1 linksynergy.com
 127.0.0.1 click-1.pl
 127.0.0.1 adx.gayboy.at
+127.0.0.1 my.rtmark.net
 127.0.0.1 install.365-stream.com
 127.0.0.1 banners.direction-x.com
 127.0.0.1 tags.tiqcdn.com
@@ -2073,6 +2076,7 @@
 127.0.0.1 coupling-media.de
 127.0.0.1 buzzonclick.com
 127.0.0.1 sortable.com
+127.0.0.1 spl.zeotap.com
 127.0.0.1 a.sakh.com
 127.0.0.1 ads.emirates.net.ae
 127.0.0.1 adzerk.s3.amazonaws.com
@@ -3024,6 +3028,7 @@
 127.0.0.1 coremetrics.com
 127.0.0.1 jdoqocy.com
 127.0.0.1 banner.noblepoker.com
+127.0.0.1 otheve.beacon.qq.com
 127.0.0.1 clickedyclick.com
 127.0.0.1 clickserve.cc-dt.com
 127.0.0.1 dicecandies.com
