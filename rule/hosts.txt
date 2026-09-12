@@ -1,4 +1,4 @@
-# Update time: 2026-09-12 12:20:31
+# Update time: 2026-09-12 23:26:07
 # Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重
 
 ###################################   合并/去重自以下规则   ####################################
@@ -1110,6 +1110,7 @@
 127.0.0.1 tracking.intl.miui.com
 127.0.0.1 zippingcare.com
 127.0.0.1 smilingcattle.com
+127.0.0.1 track.dws.com
 127.0.0.1 click.emails.tuclothing.sainsburys.co.uk
 127.0.0.1 advertracker.com
 127.0.0.1 cj.com
