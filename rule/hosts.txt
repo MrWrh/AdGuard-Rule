@@ -1,4 +1,4 @@
-# Update time: 2026-09-16 12:35:29
+# Update time: 2026-09-17 00:41:21
 # Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重
 
 ###################################   合并/去重自以下规则   ####################################
@@ -3168,6 +3168,7 @@
 127.0.0.1 conversionruler.com
 127.0.0.1 zedo.com
 127.0.0.1 ads.cybersales.cz
+127.0.0.1 quicktattoo.com
 127.0.0.1 halcyoncanyon.com
 127.0.0.1 adf.ly
 127.0.0.1 objecthero.com
