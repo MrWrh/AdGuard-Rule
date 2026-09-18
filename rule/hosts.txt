@@ -1,4 +1,4 @@
-# Update time: 2026-09-18 12:25:54
+# Update time: 2026-09-19 00:17:00
 # Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重
 
 ###################################   合并/去重自以下规则   ####################################
@@ -146,7 +146,6 @@
 127.0.0.1 ad.amgdgt.com
 127.0.0.1 banners.iq.pl
 127.0.0.1 hurricanedigitalmedia.com
-127.0.0.1 ads2.hsoub.com
 127.0.0.1 iesnare.com
 127.0.0.1 eqads.com
 127.0.0.1 mautic.com
@@ -683,7 +682,6 @@
 127.0.0.1 ads.uncrate.com
 127.0.0.1 webads.nl
 127.0.0.1 banners.passion.com
-127.0.0.1 li.onetravel.com
 127.0.0.1 incognitosearches.com
 127.0.0.1 tracker.cdnbye.com
 127.0.0.1 d81mfvml8p5ml.cloudfront.net
@@ -877,7 +875,6 @@
 127.0.0.1 app2.salesmanago.pl
 127.0.0.1 tracecontent.com
 127.0.0.1 bpu.samsungelectronics.com
-127.0.0.1 ads-portal-cdn.vidaatv.net
 127.0.0.1 static-tracking.klaviyo.com
 127.0.0.1 gunggo.com
 127.0.0.1 whiskyqueue.com
@@ -892,7 +889,6 @@
 127.0.0.1 ads.usatoday.com
 127.0.0.1 ads2004.treiberupdate.de
 127.0.0.1 mtree.com
-127.0.0.1 sadloaf.com
 127.0.0.1 experianmarketingservices.digital
 127.0.0.1 performancerevenues.com
 127.0.0.1 bagsurprise.com
@@ -1164,7 +1160,6 @@
 127.0.0.1 counter.mirohost.net
 127.0.0.1 bubblyaction.com
 127.0.0.1 bbm-ad-stack-production.up.railway.app
-127.0.0.1 revstats.com
 127.0.0.1 vungle.com
 127.0.0.1 youradexchange.com
 127.0.0.1 cdn.segment.com
@@ -1371,7 +1366,6 @@
 127.0.0.1 ads.passion.com
 127.0.0.1 ads.sjon.info
 127.0.0.1 aso1.net
-127.0.0.1 adnetasia.com
 127.0.0.1 adreactor.com
 127.0.0.1 ipredictive.com
 127.0.0.1 tendertest.com
@@ -1436,7 +1430,6 @@
 127.0.0.1 exponea.com
 127.0.0.1 adtagj.portal-factory.com
 127.0.0.1 atdmt.com
-127.0.0.1 ad.exyws.org
 127.0.0.1 4info.com
 127.0.0.1 tics.techdirt.com
 127.0.0.1 track.mailerlite.com
@@ -1466,7 +1459,6 @@
 127.0.0.1 adext.inkclub.com
 127.0.0.1 ads.syscdn.de
 127.0.0.1 ads4.gamecity.net
-127.0.0.1 handyincrease.com
 127.0.0.1 ads.mozilla.org
 127.0.0.1 ads.advance.net
 127.0.0.1 engageya.com
@@ -1654,7 +1646,6 @@
 127.0.0.1 goodcontentservice.top
 127.0.0.1 bidswitch.net
 127.0.0.1 emjcd.com
-127.0.0.1 deployads.com
 127.0.0.1 femalecook.com
 127.0.0.1 sombersurprise.com
 127.0.0.1 stat.zenon.net
@@ -1745,7 +1736,6 @@
 127.0.0.1 adserver.scr.sk
 127.0.0.1 advertise.com
 127.0.0.1 themoneytizer.com
-127.0.0.1 dragonbats.com
 127.0.0.1 cartstack.com
 127.0.0.1 pagead.l.google.com
 127.0.0.1 microticker.com
@@ -2076,7 +2066,6 @@
 127.0.0.1 anstrex.com
 127.0.0.1 coupling-media.de
 127.0.0.1 buzzonclick.com
-127.0.0.1 sortable.com
 127.0.0.1 spl.zeotap.com
 127.0.0.1 a.sakh.com
 127.0.0.1 ads.emirates.net.ae
@@ -2187,7 +2176,6 @@
 127.0.0.1 eclick.vn
 127.0.0.1 adserv.snigelweb.com
 127.0.0.1 advertiserurl.com
-127.0.0.1 shredform.com
 127.0.0.1 imgpromo.easyrencontre.com
 127.0.0.1 beemray.com
 127.0.0.1 nr.mmcdn.com
@@ -3323,7 +3311,6 @@
 127.0.0.1 casinopays.com
 127.0.0.1 moartraffic.com
 127.0.0.1 awempire.com
-127.0.0.1 godseedband.com
 127.0.0.1 ifa.tube8live.com
 127.0.0.1 trk.bc.shutterfly.com
 127.0.0.1 tinytendency.com
@@ -3581,7 +3568,6 @@
 127.0.0.1 ads.ipowerweb.com
 127.0.0.1 zencudo.co.uk
 127.0.0.1 ads.clasificadox.com
-127.0.0.1 frequentflesh.com
 127.0.0.1 digital-ads.s3.amazonaws.com
 127.0.0.1 unarmedindustry.com
 127.0.0.1 ads.elcarado.com
