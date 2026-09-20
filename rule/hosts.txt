@@ -1,4 +1,4 @@
-# Update time: 2026-09-20 12:41:41
+# Update time: 2026-09-20 23:56:09
 # Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重
 
 ###################################   合并/去重自以下规则   ####################################
@@ -2400,6 +2400,7 @@
 127.0.0.1 oas.repubblica.it
 127.0.0.1 popup.msn.com
 127.0.0.1 amung.us
+127.0.0.1 analytics.org.coveo.com
 127.0.0.1 exhibitsneeze.com
 127.0.0.1 ads.colombiaonline.com
 127.0.0.1 media-adrunner.mycomputer.com
