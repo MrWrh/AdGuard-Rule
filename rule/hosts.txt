@@ -1,4 +1,4 @@
-# Update time: 2026-09-21 12:39:53
+# Update time: 2026-09-22 02:09:54
 # Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重
 
 ###################################   合并/去重自以下规则   ####################################
@@ -461,6 +461,7 @@
 127.0.0.1 affiliatetracking.com
 127.0.0.1 d-collector.jennifersoft.com
 127.0.0.1 mookie1.com
+127.0.0.1 tracking.gauchosurf.com
 127.0.0.1 mintfunnel.co
 127.0.0.1 xxxmyself.com
 127.0.0.1 adkora.com
@@ -1283,6 +1284,7 @@
 127.0.0.1 homelycrown.com
 127.0.0.1 quantcast.com
 127.0.0.1 audienceinsights.com
+127.0.0.1 offers.ltsc-has.com
 127.0.0.1 reveal.clearbit.com
 127.0.0.1 counted.com
 127.0.0.1 360yield.com
@@ -1657,6 +1659,7 @@
 127.0.0.1 decenterads.com
 127.0.0.1 successbuffet.com
 127.0.0.1 popupnation.com
+127.0.0.1 offers.gateway-lts450.com
 127.0.0.1 valueclick.com
 127.0.0.1 liadm.com
 127.0.0.1 metrics.mzstatic.com

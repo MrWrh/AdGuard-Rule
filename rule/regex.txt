@@ -1,4 +1,4 @@
-# Update time: 2026-09-21 12:39:53
+# Update time: 2026-09-22 02:09:54
 # Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重
 
 ###################################   合并/去重自以下规则   ####################################
@@ -82,22 +82,47 @@
 ||okok37@dtacnetwork.co.th
 ||ad*.nownews.com^
 ||tw-726620180914.*.run.app^
-||dm*.yxlady.com^
 ||uc*.atobo.com^
+||ad*.on.cc^
 ||res*.pinpai8.cn^
+||fpb*.51edu.com^
 ||gcw*.2liang.cn^
+||zbb.bbb.*.pics^
+||dn*.ixinwei.com^
+||qpb*.sohu.com^
+||static*.365inews.com^
+||union*.365inews.com^
+||fpb1.chinacar.
+||sax*.sina.
+||bdcpro*.techweb.com.cn^
+||67.21.92.*.gif
+||impservice*.youdao.com^
 ||d*.ruiwen.com^
 ||fanpingbi*.gaokao.com^
-||dn*.ixinwei.com^
 ||a*.chajiaotong.com^
 ||bdlm*.hc360.com^
-||ac*.faxingchina.com^
-||fpb1.chinacar.
 ||ac*.786ip.com^
-||ad*.on.cc^
+||ya*.dwstatic.com^
 ||d*.xinshipu.com^
-||fpb*.51edu.com^
-||zbb.bbb.*.pics^
+||ja*.gamersky.com^
+||ysdm*.ys137.com.cn^
+||107.167.22.*.gif
+||dm*.yxlady.com^
+||38.33.15.*.gif
+||zhizhizhizhi.oss-*.aliyuncs.com^
+||adi*.cnool.net^
+||tupian888.*.bcebos.com^
+||same*.stockstar.com^
+||impservice*.yodao.com^
+||ac*.faxingchina.com^
+||ax.*.ifeng.com^
+||121.204.246.*.gif
+||js*.abolezi.com^
+||sam*.baby-kingdom.com^
+||107.167.16.*.gif
+||vns86.oss-*.aliyuncs.com^
+||asd8900.oss-*.aliyuncs.com^
+||ky891.oss-*.aliyuncs.com^
 ||ads-*-nfl.yinzcam.com^
 ||ads*.production-public.tubi.io^
 ||adx-*.op.dbankcloud.com.edgekey.net^
@@ -149,32 +174,6 @@
 ||log-*.previewnetworks.com^
 ||mcdp-*.outbrain.com^
 ||tracker.twenga.
-||sax*.sina.
-||bdcpro*.techweb.com.cn^
-||67.21.92.*.gif
-||res*.pinpai8.cn^
-||impservice*.youdao.com^
-||ya*.dwstatic.com^
-||ja*.gamersky.com^
-||static*.365inews.com^
-||ysdm*.ys137.com.cn^
-||107.167.22.*.gif
-||38.33.15.*.gif
-||zhizhizhizhi.oss-*.aliyuncs.com^
-||adi*.cnool.net^
-||tupian888.*.bcebos.com^
-||same*.stockstar.com^
-||impservice*.yodao.com^
-||ax.*.ifeng.com^
-||121.204.246.*.gif
-||js*.abolezi.com^
-||sam*.baby-kingdom.com^
-||107.167.16.*.gif
-||qpb*.sohu.com^
-||union*.365inews.com^
-||vns86.oss-*.aliyuncs.com^
-||asd8900.oss-*.aliyuncs.com^
-||ky891.oss-*.aliyuncs.com^
 ||mon*-misc.fqnovel.com^
 ||ulog*.kwai-pro.com^
 ||logreport-global-dual.cool*cloud.com^
@@ -268,6 +267,8 @@ d4?appid*type*
 ||www.^
 lj_bookmarklet
 ||acookie.*.gif?
+||s*.skencituer.com^
+||hostingcloud.*.wasm^
 ||stw.extreme-down.
 ||matt.mercadolibre.
 ||tccd.douglas.
@@ -298,8 +299,6 @@ lj_bookmarklet
 ||aviasales.*-analytics.
 %2Fevent.gif%3F
 ||df.infra.shopee.
-||s*.skencituer.com^
-||hostingcloud.*.wasm^
 ||158.247.208.
 ||util-*.simply-hentai.com^
 ||23.109.82.
@@ -383,7 +382,6 @@ follow-it-form-subscribe
 ||apple-*.le.com^
 ||cnt.yeptube.
 ||iptracker-lb-*.amazonaws.com^
-||umami.
 ||cnt.hd21.
 ||pixel*.adswizz.com
 ||customerevents.us-east-*.internal.dradis.netflix.com^
@@ -436,6 +434,7 @@ follow-it-form-subscribe
 ||track.zalando.
 ||mcs-*.tiktok.com^
 ||px*.mediahills.ru^
+||e.missav.
 ||tag-v*.kuzen.io^
 ||t.delfi.
 ||install*.zonastat.com^
