@@ -1,4 +1,4 @@
-# Update time: 2026-09-22 12:36:15
+# Update time: 2026-09-23 00:46:33
 # Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重
 
 ###################################   合并/去重自以下规则   ####################################
@@ -397,6 +397,7 @@
 127.0.0.1 mediaarea.eu
 127.0.0.1 hocgeese.com
 127.0.0.1 realsrv.com
+127.0.0.1 roguephilosopher.com
 127.0.0.1 adblade.com
 127.0.0.1 ads.digitalpoint.com
 127.0.0.1 33across.com
