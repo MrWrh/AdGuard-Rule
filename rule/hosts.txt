@@ -1,4 +1,4 @@
-# Update time: 2026-09-25 12:41:35
+# Update time: 2026-09-26 01:02:25
 # Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重
 
 ###################################   合并/去重自以下规则   ####################################
@@ -236,7 +236,6 @@
 127.0.0.1 uib.ff.avast.com
 127.0.0.1 awin1.com
 127.0.0.1 optnmstr.com
-127.0.0.1 ivwbox.de
 127.0.0.1 tinybar.com
 127.0.0.1 x-traceur.com
 127.0.0.1 track.smtpmessage.com
@@ -1307,7 +1306,6 @@
 127.0.0.1 cpalead.com
 127.0.0.1 log.btopenworld.com
 127.0.0.1 revive.netriota.hu
-127.0.0.1 recoco.it
 127.0.0.1 r1.visualwebsiteoptimizer.com
 127.0.0.1 honorableland.com
 127.0.0.1 4d5.net
@@ -1910,7 +1908,6 @@
 127.0.0.1 adperium.com
 127.0.0.1 srvtrck.com
 127.0.0.1 targeting.api.drift.com
-127.0.0.1 crabbychin.com
 127.0.0.1 trafficspaces.net
 127.0.0.1 look.ufinkln.com
 127.0.0.1 ads4.virtual-nights.com
@@ -2641,7 +2638,6 @@
 127.0.0.1 exitfuel.com
 127.0.0.1 goqon.com
 127.0.0.1 topstats.com
-127.0.0.1 ads.epltalk.com
 127.0.0.1 marketingsolutions.yahoo.com
 127.0.0.1 billboard.cz
 127.0.0.1 launchbit.com
@@ -3235,7 +3231,6 @@
 127.0.0.1 celtra.com
 127.0.0.1 bannerconnect.net
 127.0.0.1 hellobar.com
-127.0.0.1 rtbpopd.com
 127.0.0.1 hubspotlinks.com
 127.0.0.1 widget.educationdynamics.com
 127.0.0.1 realmedia-a800.d4p.net
@@ -3319,6 +3314,7 @@
 127.0.0.1 casinopays.com
 127.0.0.1 moartraffic.com
 127.0.0.1 awempire.com
+127.0.0.1 godseedband.com
 127.0.0.1 ifa.tube8live.com
 127.0.0.1 trk.bc.shutterfly.com
 127.0.0.1 tinytendency.com
