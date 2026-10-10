@@ -1,4 +1,4 @@
-# Update time: 2026-10-10 13:35:12
+# Update time: 2026-10-11 01:16:18
 # Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重
 
 ###################################   合并/去重自以下规则   ####################################
@@ -1579,6 +1579,7 @@
 127.0.0.1 ads180.com
 127.0.0.1 trk42.net
 127.0.0.1 lgsmartad.com
+127.0.0.1 session.bugsnag.kindle.amazon.dev
 127.0.0.1 track.effiliation.com
 127.0.0.1 ablink.news.emails-puregym.com
 127.0.0.1 ad2.xrea.com
